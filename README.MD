@@ -17,7 +17,7 @@
   
 ## About This Bot
 
-<b><a href="https://www.github.com/KWICBOTS" title="Follow">Follow Me For Updates</a></b>
+<b><a href="https://github.com/Lukerman/kwichighspeedbot" title="Follow">Follow Me For Updates</a></b>
 
 ## Up to 4GB files Supported ♥️
 
@@ -50,7 +50,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the button and make ytml folder and deploy on Render
 
-<a href="https://render.com/deploy?repo=https://github.com/KWICBOTS/kwichighspeedbot">
+<a href="https://render.com/deploy?repo=https://github.com/Lukerman/kwichighspeedbot">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 
